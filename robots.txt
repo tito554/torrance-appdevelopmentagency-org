@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://torrance.appdevelopmentagency.org/sitemap.xml
